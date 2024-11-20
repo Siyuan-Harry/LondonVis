@@ -9,7 +9,7 @@ In this repo:
 * all visualisations can be found in *plots* folder.
 * Other files named *census2021-xxx*, *London_crime* and *metropolitan_crime* are data sources contributed for this analysis. But they are not complete because some of the dataset I use was too huge to be uploaded to GitHub repo.
 
-A lot of thanks to Louis from https://geolytix.co.uk/ for providing me [London Postal dataset](https://geolytix.cn/blog/uk-postal/), which contains high-quality and precise geographical data for post districts' in London. This dataset plays foundamental role of helping me finish this coursework. 
+A lot of thanks to Sir Louis from https://geolytix.co.uk/ for providing me [London Postal dataset](https://geolytix.cn/blog/uk-postal/), which contains high-quality and precise geographical data for post districts' in London. This dataset plays foundamental role of helping me finish this coursework. 
 
 <img src="https://siyuan-harry.oss-cn-beijing.aliyuncs.com/oss://siyuan-harry/%E6%88%AA%E5%B1%8F2024-11-18%2008.40.19.png"/>
 
